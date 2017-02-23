@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "platformer2", "platformer2\platformer2\platformer2.csproj", "{BE62B76F-7913-4009-9581-3635D57345E3}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "platformer2Content", "platformer2\platformer2Content\platformer2Content.contentproj", "{A96DA3E1-0D39-457C-B4BC-AD26B1678A0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE62B76F-7913-4009-9581-3635D57345E3}.Debug|x86.ActiveCfg = Debug|x86
+		{BE62B76F-7913-4009-9581-3635D57345E3}.Debug|x86.Build.0 = Debug|x86
+		{BE62B76F-7913-4009-9581-3635D57345E3}.Release|x86.ActiveCfg = Release|x86
+		{BE62B76F-7913-4009-9581-3635D57345E3}.Release|x86.Build.0 = Release|x86
+		{A96DA3E1-0D39-457C-B4BC-AD26B1678A0B}.Debug|x86.ActiveCfg = Debug|x86
+		{A96DA3E1-0D39-457C-B4BC-AD26B1678A0B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
